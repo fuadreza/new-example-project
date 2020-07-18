@@ -2,3 +2,6 @@ Everything in this file is manually writen on keyboard.
 
 I just want to put this file to learn how git works.
 
+---
+Ilhamday here, he learning with me. 
+
